@@ -1,0 +1,17 @@
+{
+	id: "58688dda-f7c3-323b-8e47-a50b24f76bfd"
+	type: "player"
+	player_name: "iLeik_Z"
+	ranks: {
+		58688dda-f7c3-323b-8e47-a50b24f76bfd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "iLeik_Z"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF597B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
